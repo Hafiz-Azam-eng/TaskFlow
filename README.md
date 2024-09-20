@@ -1,7 +1,7 @@
 
 # Task Manager Tool
 
-![Task Manager](#) <!-- Add a primary screenshot here -->
+![Task Manager](https://github.com/Hafiz-Azam-eng/TaskFlow/blob/master/ScreenShots/Screenshot%202024-09-20%20005314.jpg)
 
 ## Table of Contents
 - [About](#about)
