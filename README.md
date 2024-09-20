@@ -74,14 +74,17 @@ The **Task Manager Tool** is a comprehensive and user-friendly web application d
 ## Screenshots
 
 ### Task Manager Dashboard
-![Dashboard](#) <!-- Add the screenshot of the dashboard here -->
+![Dashboard](https://github.com/Hafiz-Azam-eng/TaskFlow/blob/master/ScreenShots/Screenshot%202024-09-20%20005314.jpg)
 
 ### Creating a Task with Subtasks
-![Create Task](#) <!-- Add a screenshot of creating a task with subtasks -->
+![Create Task](https://github.com/Hafiz-Azam-eng/TaskFlow/blob/master/ScreenShots/Screenshot%202024-09-20%20005458.jpg)
+
+### Completed Task list View
+![Completed Task][(https://github.com/Hafiz-Azam-eng/TaskFlow/blob/master/ScreenShots/Screenshot%202024-09-20%20005458.jpg)]
 
 ### Setting Task Priority
-![Set Priority](#) <!-- Add a screenshot of setting task priority -->
+![Set Priority](https://github.com/Hafiz-Azam-eng/TaskFlow/blob/master/ScreenShots/Screenshot%202024-09-20%20005432.jpg)
 
 ### Team Management
-![Team Management](#) <!-- Add a screenshot of team management -->
+![Team Management](https://github.com/Hafiz-Azam-eng/TaskFlow/blob/master/ScreenShots/Screenshot%202024-09-20%20005636.jpg)
 
